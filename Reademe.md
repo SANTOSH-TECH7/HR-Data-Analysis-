@@ -1,5 +1,4 @@
-Below is an example README file for the repository that explains the purpose and usage of the project based entirely on the provided repository content fileciteturn0file12:
-
+B
 ------------------------------------------------------------
 # README
 
